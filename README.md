@@ -1,4 +1,4 @@
-Hello I’m @Harry Nur Isnandar
+Hello I’m Harry Nur Isnandar
 I’m interested in Arduino, machine learning, and instrument engineer
 I’m currently learning phyton, physics, and microcontroller (arduino, ESP, Microbit)
 I’m looking to collaborate on ...
